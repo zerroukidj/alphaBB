@@ -1,0 +1,14 @@
+﻿  Underestimators_benchmark_2.cpp
+C:\Users\zerrouki\source\repos\Underestimators_benchmark_2\Underestimators_benchmark_2\Underestimators_benchmark_2.cpp(659,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\zerrouki\source\repos\Underestimators_benchmark_2\Underestimators_benchmark_2\Underestimators_benchmark_2.cpp(661,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\zerrouki\source\repos\Underestimators_benchmark_2\Underestimators_benchmark_2\Underestimators_benchmark_2.cpp(665,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\zerrouki\source\repos\Underestimators_benchmark_2\Underestimators_benchmark_2\Underestimators_benchmark_2.cpp(667,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zerrouki\source\repos\Underestimators_benchmark_2\Underestimators_benchmark_2\Underestimators_benchmark_2.cpp(679,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\zerrouki\source\repos\Underestimators_benchmark_2\Underestimators_benchmark_2\Underestimators_benchmark_2.cpp(880,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\zerrouki\source\repos\Underestimators_benchmark_2\Underestimators_benchmark_2\Underestimators_benchmark_2.cpp(1018,12): warning C4101: 'a': unreferenced local variable
+C:\Users\zerrouki\source\repos\Underestimators_benchmark_2\Underestimators_benchmark_2\Underestimators_benchmark_2.cpp(1005,17): warning C4101: 'repeat': unreferenced local variable
+C:\Users\zerrouki\source\repos\Underestimators_benchmark_2\Underestimators_benchmark_2\Underestimators_benchmark_2.cpp(1006,12): warning C4101: 'tab': unreferenced local variable
+C:\Users\zerrouki\source\repos\Underestimators_benchmark_2\Underestimators_benchmark_2\Underestimators_benchmark_2.cpp(1016,12): warning C4101: 's': unreferenced local variable
+C:\Users\zerrouki\source\repos\Underestimators_benchmark_2\Underestimators_benchmark_2\Underestimators_benchmark_2.cpp(1018,15): warning C4101: 'ai': unreferenced local variable
+C:\Users\zerrouki\source\repos\Underestimators_benchmark_2\Underestimators_benchmark_2\Underestimators_benchmark_2.cpp(1018,25): warning C4101: 'ks': unreferenced local variable
+  Underestimators_benchmark_2.vcxproj -> C:\Users\zerrouki\source\repos\Underestimators_benchmark_2\x64\Debug\Underestimators_benchmark_2.exe
